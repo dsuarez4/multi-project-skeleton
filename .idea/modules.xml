@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entity-graph.iml" filepath="$PROJECT_DIR$/.idea/modules/entity-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard/module1.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard/module1_main.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard/module1_test.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sense/module2.iml" filepath="$PROJECT_DIR$/.idea/modules/sense/module2.iml" group="sense" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sense/module2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sense/module2_main.iml" group="sense" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sense/module2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sense/module2_test.iml" group="sense" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/module3.iml" filepath="$PROJECT_DIR$/.idea/modules/service/module3.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/module3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/module3_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/module3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/module3_test.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/module_golang/module_golang.iml" filepath="$PROJECT_DIR$/module_golang/module_golang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_python/module_python.iml" filepath="$PROJECT_DIR$/module_python/module_python.iml" />
+    </modules>
+  </component>
+</project>
